@@ -1,0 +1,30 @@
+.heading{
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 10px rgb(3, 221, 237);
+    font-size: 20px;
+}
+
+.note{
+color: #0059ff;
+font-size: 15px;
+}
+
+canvas
+{
+background-color: navajowhite;
+box-shadow:5px 5px 10px crimson;
+border: 5px solid rgb(55, 34, 7);
+border-radius: 10px;
+}
+
+.footer
+{
+    bottom:0;
+    position: fixed;
+    background-color: lightslategray;
+    color:thistle;
+    font-size: 20px;
+    width:100%;
+line-height:3;
+}
